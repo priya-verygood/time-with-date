@@ -2,7 +2,6 @@ body{
   background-image:url('time.jpg');
   background-repeat: no repeat;
   background-position:cover;
-  display:flex;
   justify-content: center;
   align-items: center;
   height: 100hv;
@@ -11,7 +10,7 @@ body{
 }
 
 .clock{
-  color: black;
+  color: white;
   font-size: 6rem;
   gap: 2rem;
   display: flex;
@@ -19,7 +18,7 @@ body{
 }
 h1{
   color: black;
-  font-size: 4rem;
+  font-size: 5rem;
   gap: 1rem;
   display: flex;
   text-align: center;

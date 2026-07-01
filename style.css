@@ -5,15 +5,15 @@ body{
   display:flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  height: 100hv;
   margin: 0;
  
 }
 
 .clock{
-  color: navy;
-  font-size: 4rem;
-  gap: 1rem;
+  color: black;
+  font-size: 6rem;
+  gap: 2rem;
   display: flex;
   text-align: center;
 }

@@ -1,0 +1,38 @@
+body{
+  background-image:url('time.jpg');
+  background-repeat: no repeat;
+  background-position:cover;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+ 
+}
+
+.clock{
+  color: navy;
+  font-size: 4rem;
+  gap: 1rem;
+  display: flex;
+  text-align: center;
+}
+h1{
+  color: black;
+  font-size: 4rem;
+  gap: 1rem;
+  display: flex;
+  text-align: center;
+  margin-top: 25%;
+}
+#seconds
+{
+  min-width: 5.5rem;
+}
+p{
+  font-size:20px;
+  margin-bottom: 30%;
+  color: whitesmoke;
+}
+
+

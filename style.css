@@ -1,15 +1,14 @@
 body{
-  background-repeat: no repeat;
-  display: fixed;
-  justify-content: center;
-  align-items: center;
-  height: 250px;
-  margin: 0;
+  background-image: fixed;
  }
-
+time{
+  display: fixed;
+  width: 500px;
+  hight:300px;
+}
 .clock{
   color: white;
-  font-size: 6rem;
+  font-size: i6rem;
   gap: 2rem;
   display: flex;
   text-align: center;

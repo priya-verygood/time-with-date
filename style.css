@@ -2,6 +2,7 @@ body{
   background-image:url('time.jpg');
   background-repeat: no repeat;
   background-position:cover;
+  display: fixed;
   justify-content: center;
   align-items: center;
   height: 100hv;

@@ -1,14 +1,16 @@
+body{
+    background-image:url('time.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
 .clock{
   color: white;
   font-size: 6rem;
   gap: 2rem;
   display: flex;
   text-align: center;
-}
-time{
-  background-repeat: no repeat;
-  width:500px;
-  height:1000px;
 }
 h1{
   color: white;
